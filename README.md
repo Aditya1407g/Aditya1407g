@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Aditya 👋
 
-<!--
-**Aditya1407g/Aditya1407g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad from Hyderabad. Incoming **M.Eng Software Engineering @ University of Maryland** (Fall 2026).
 
-Here are some ideas to get you started:
+🛠️ **Currently building**
+- A production-grade URL shortener — Spring Boot, PostgreSQL, Redis, Docker, AWS. Analytics, rate limiting, JWT auth.
+- Working through DSA in Java — recursion, trees, graphs, DP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Interested in** backend engineering, distributed systems, the Java/Spring ecosystem.
+
+🧰 **Tech** Java · Spring Boot · Python · PostgreSQL · Redis · Docker · Git
+
+📫 Reach me on LinkedIn *(coming soon)*
