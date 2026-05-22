@@ -10,4 +10,4 @@ CS undergrad from Hyderabad. Incoming **M.Eng Software Engineering @ University 
 
 🧰 **Tech** Java · Spring Boot · Python · PostgreSQL · Redis · Docker · Git
 
-📫 Reach me on LinkedIn *(coming soon)*
+📫 Reach me on LinkedIn *www.linkedin.com/in/aditya14g*
