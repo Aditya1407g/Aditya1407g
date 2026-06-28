@@ -1,6 +1,6 @@
 ### Hi, I'm Aditya 👋
 
-CS undergrad from Hyderabad. Incoming **M.Eng Software Engineering @ University of Maryland** (Fall 2026).
+CS undergrad from Hyderabad.
 
 🛠️ **Currently building**
 - A production-grade URL shortener — Spring Boot, PostgreSQL, Redis, Docker, AWS. Analytics, rate limiting, JWT auth.
